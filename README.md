@@ -1,5 +1,40 @@
 # 💫 About Me:
-Fullstack Development<br>Mern Stack<br>React.Js<br>Node.Js<br>Express<br>Javascript<br>MongoDB<br>Rest API Development<br>Responsive Web Design<br>Data Structures and Algorithms<br>SQL<br>MySQL<br>AWS<br>Html/Css<br>
+# 👋 Hi, I'm Harsh Vardhan Singh
+
+- 🎓 BE in Computer Science Engineering
+- 💻 Full Stack Web Developer (HTML, CSS, JavaScript, Node.js, Express.js, MySQL)
+- 🌱 Currently learning React.js, MongoDB & REST APIs
+- 🚀 Building Full Stack & Backend Projects
+- 👨‍💻 1 Year Experience in Web Development
+- 🤝 Looking to collaborate on Open Source & Web Development Projects
+- 💬 Ask me about JavaScript, Node.js, Express.js & MySQL
+- 📫 Reach me: your-email@example.com
+- ⚡ Fun Fact: I love turning ideas into real web applications.
+
+---
+
+## 🛠️ Tech Stack
+
+💻 HTML • CSS • JavaScript  
+⚙️ Node.js • Express.js  
+🗄️ MySQL • MongoDB  
+🔧 Git • GitHub • VS Code
+
+---
+
+## 📌 Current Goals
+
+- ✅ Master MERN Stack
+- ✅ Build Real-World Projects
+- ✅ Contribute to Open Source
+- ✅ Get a Full Stack Developer Job
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/your-profile
+- 💻 GitHub: https://github.com/your-username
 
 
 ## 🌐 Socials:
