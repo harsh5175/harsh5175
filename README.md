@@ -8,7 +8,7 @@
 - 👨‍💻 1 Year Experience in Web Development
 - 🤝 Looking to collaborate on Open Source & Web Development Projects
 - 💬 Ask me about JavaScript, Node.js, Express.js & MySQL
-- 📫 Reach me: your-email@example.com
+- 📫 Reach me: your-singhharshvaardhan195@gmail.com
 - ⚡ Fun Fact: I love turning ideas into real web applications.
 
 ---
